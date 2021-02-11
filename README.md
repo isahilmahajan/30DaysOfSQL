@@ -1,7 +1,7 @@
 # My #30DaysOfSQL Journey
 
-*Sahil Mahajan* <br>
-**Find me on [LinkedIn](https://www.linkedin.com/in/sahil-mahajan)**
+**Sahil Mahajan** <br>
+*Find me on [LinkedIn](https://www.linkedin.com/in/sahil-mahajan)*
 
 **Resources:**<br>
 **Lessons @[W3Schools](https://www.w3schools.com/sql")** <br>
@@ -12,3 +12,4 @@
 |------|-----------------|--------------------|---------------------|
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 | 10 Feb 2021 | Configured MySQL Workbench | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer: |
 ||| Solved SQL Ques on SELECT Query | &nbsp;&nbsp;&nbsp;[Day 1](https://github.com/isahilmahajan/30DaysOfSQL/blob/main/Day-1-Ques.sql) 
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 | 11 Feb 2021 | Solved SQL Ques on SELECT Query | &nbsp;&nbsp;&nbsp;[Day 2](https://github.com/isahilmahajan/30DaysOfSQL/blob/main/Day-2-Ques.sql) 
